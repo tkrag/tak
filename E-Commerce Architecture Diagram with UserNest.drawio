@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T14:24:46.586Z" agent="5.0 (X11)" etag="rtkkKl1JRvdeBmoaHYsY" version="20.5.3" type="github">
-  <diagram id="UUsMMtwhXxyZdNkgY5Es" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-11-21T14:31:57.702Z" agent="5.0 (X11)" etag="DaSOx-RCCYHXq6JRw9T2" version="20.5.3" type="github" pages="2">
+  <diagram id="UUsMMtwhXxyZdNkgY5Es" name="Segmented Cust Data">
     <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -135,6 +135,146 @@
         </mxCell>
         <mxCell id="9xjIN82OOCOwBW678dhm-52" value="&lt;div&gt;Retail System&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="jwndZacaCe4jzVb1z6JA">
+    <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-0" />
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-1" parent="MvEx5qQkRU3MzDDUDPe1-0" />
+        <mxCell id="PDZjWVZN6zkhEWRCWz0B-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="30" y="350" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-2" value="Chat Services" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.chat_room;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="570" y="40" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-3" value="IOS App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_ios;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="50" y="40" width="109" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-4" value="Android App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_android;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="170" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-5" value="Web App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_web;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="290" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-6" value="Outbound Mail" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.email;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="420" y="40" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-7" value="Commerce" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/cart-128.png" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="700" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-8" value="Search" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="830" y="40" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-9" value="Point of Sale" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="940" y="30" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-10" value="Experience Orchestration or DXC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="40" y="160" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-11" value="E-Com Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="700" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-12" value="Product Recommendation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-13" value="Marketing Automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-14" value="CMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-15" value="Search Solution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-16" value="POS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="830" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-17" value="Customer Service Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="830" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-18" value="&lt;div&gt;Snowplov&lt;/div&gt;&lt;div&gt;Data Ingestion from all channels&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-19" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="322.5" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-20" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="190" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-21" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="710" y="400" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-22" value="Black Box Customer Data" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="1190" y="730" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-23" value="Open&amp;nbsp; Customer Data" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="1190" y="640" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-26" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="585" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-28" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="840" y="400" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-29" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="840" y="281" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="30" y="401" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-33" value="Analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="44.5" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-36" value="Loyalty Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="700" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-37" value="Review/UGC Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="960" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-38" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="720" y="281" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-39" value="Enterprise API Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="40" y="480" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-40" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="50" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-41" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="190" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-42" value="PIM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-43" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="465" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-44" value="Data Lake" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="600" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-45" value="&lt;div&gt;Retail System&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDZjWVZN6zkhEWRCWz0B-0" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="54.5" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PDZjWVZN6zkhEWRCWz0B-2" value="&lt;div&gt;Cookies (Excluding Session Cookies)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="1183.5" y="540" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PDZjWVZN6zkhEWRCWz0B-3" value="Reverse ETL" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;rotation=0;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDZjWVZN6zkhEWRCWz0B-4" value="&lt;div&gt;Predefined data-model for most use cases&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDZjWVZN6zkhEWRCWz0B-5" value="&lt;div&gt;Audience builder&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEx5qQkRU3MzDDUDPe1-32" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="MvEx5qQkRU3MzDDUDPe1-1">
+          <mxGeometry x="180" y="400" width="35" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
