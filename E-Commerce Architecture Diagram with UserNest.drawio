@@ -1,1 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T13:58:33.185Z" agent="5.0 (X11)" version="20.5.3" etag="Rc-FhsedIeTf9Uw6n9-3" type="github"><diagram id="UUsMMtwhXxyZdNkgY5Es">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-21T14:24:46.586Z" agent="5.0 (X11)" etag="rtkkKl1JRvdeBmoaHYsY" version="20.5.3" type="github">
+  <diagram id="UUsMMtwhXxyZdNkgY5Es" name="Page-1">
+    <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9xjIN82OOCOwBW678dhm-4" value="Chat Services" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.chat_room;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-5" value="IOS App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_ios;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="109" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-6" value="Android App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_android;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-7" value="Web App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_web;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-8" value="Outbound Mail" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.email;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-13" value="Commerce" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/cart-128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-14" value="Search" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
+          <mxGeometry x="830" y="40" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-15" value="Point of Sale" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/pos-128.png" vertex="1" parent="1">
+          <mxGeometry x="940" y="30" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-16" value="Experience Orchestration or DXC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-17" value="E-Com Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-18" value="Product Recommendation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-19" value="Marketing Automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-20" value="CMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-21" value="Search Solution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-22" value="POS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-23" value="Customer Service Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-24" value="CDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-9" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-25" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-10" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="400" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-26" value="Black Box Customer Data" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="730" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-27" value="Open&amp;nbsp; Customer Data" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="640" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="1">
+          <mxGeometry x="382" y="281" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="281" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-30" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="585" y="280" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-33" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="330" y="399" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-35" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="840" y="281" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="1">
+          <mxGeometry x="902" y="281" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="1">
+          <mxGeometry x="900" y="399" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-38" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="840" y="400" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-39" value="Analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-41" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="281" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cartoon-snack/128/cookie-128.png" vertex="1" parent="1">
+          <mxGeometry x="111" y="279" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-43" value="Loyalty Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-44" value="Review/UGC Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-45" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="720" y="281" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-46" value="Enterprise API Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-47" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-48" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-49" value="PIM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-50" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="465" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-51" value="Data Lake" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xjIN82OOCOwBW678dhm-52" value="&lt;div&gt;Retail System&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
